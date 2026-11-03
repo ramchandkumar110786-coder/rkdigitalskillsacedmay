@@ -1,0 +1,6 @@
+{
+  "name": "RK Digital Skills Academy (RDS)",
+  "description": "Scholarship-based digital skills academy in Pakistan offering practical courses in Artificial Intelligence, AI Social Media Marketing, and Canva Freelancing. Learn Today. Earn Tomorrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
